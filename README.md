@@ -83,4 +83,3 @@ A interface deve conter os métodos:
 [Gabriel Sbruzzi]  
 GitHub: [@GabrielSbruzzi](https://github.com/GabrielSbruzzi)  
 LinkedIn: [Gabriel Sbruzzi](https://linkedin.com/in/gabriel-sbruzzi)
-```
